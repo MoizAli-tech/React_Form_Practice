@@ -1,0 +1,14 @@
+*{
+}
+
+label{
+  color:white;
+}
+
+input,textarea{
+  padding:3px 4px;
+}
+
+.btn{
+  transition:all 1.5s ease;
+}
